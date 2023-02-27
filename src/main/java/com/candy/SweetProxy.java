@@ -102,8 +102,4 @@ public class SweetProxy {
         }
     }
 
-    public static String getAddress() {
-        return address;
-    }
-
 }
